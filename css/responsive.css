@@ -30,6 +30,9 @@
     .footer-100 {
         margin-top: 237px;
     }
+    .footer{
+        width: 1150px;
+    }
 }
 
 @media (max-width: 1200px){
@@ -70,6 +73,10 @@
     }
     .footer-100 {
         margin-top: 279px;
+    }
+    
+    .footer{
+        width: 750px;
     }
 }
 
@@ -114,6 +121,10 @@
     .footer-100 {
         margin-top: 255px;
     }
+    
+    .footer{
+        width: 550px;
+    }
 }
 
 @media (max-width: 576px){
@@ -146,5 +157,9 @@
     .footer-100 {
         background-color: black;
         margin-top: 227px;
+    }
+    
+    .footer{
+        width: 400px;
     }
 }
